@@ -33,11 +33,11 @@ This project consist of three main tasks:
  
 ### Executing program
 
-The first task (bash script: "script.sh") can be run either on a Linux of Windows environment (For windows can be Git bash for example)
+The first task (bash script: "script.sh") can be run either on Linux or Windows (For windows can be Git bash for example).
 
 For the seconde task (python script: "pandas_script.py") in order to see the histogram plot it is necessary to run the code on a python interpreter.
 
-The third task (HTTP python server: "server.py") needs to be run on a Linux environment.
+The third task (HTTP python server: "server.py") needs to be run on Linux.
 
 #### Step by Step
 ##### Bash script 
