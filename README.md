@@ -52,7 +52,7 @@ The third task (HTTP python server: **"server.py"**) needs to be run on Linux.
 
 ##### Python HTTP Server script (only runs with Linux)
 1. Open a terminal and run python3 server.py. 
-2. It will print out the link to the server.
+2. It will print out the link to the server. (or open browser on localhost:8080)
 3. Upload zipfile and write password *"process"*.
 4. Output in a JSON format will be printed. 
 
