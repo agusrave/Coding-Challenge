@@ -44,7 +44,7 @@ The third task (HTTP python server: **"server.py"**) needs to be run on Linux.
 1. Open a terminal where you have saved the **"script.sh"** file and write **"./script.sh path_of_the_directory"** (Git bash on Windows) or **"bash script.sh path_of_the_directory (Linux)"**
 2. An output file with the results called "directory_stats.txt" will be exported in the current folder where the terminal was initiated 
 
-***"prueba.zip"** is a directory that has dummy files and subfolders of different sizes. Hence for this task, it could be extracted in a folder call "prueba" and run on a terminal  "./script.sh prueba" (Windows gitbash)*
+***"test.zip"** is a directory that has dummy files and subfolders of different sizes. Hence for this task, it could be extracted in a folder call "test" and run on a terminal  "./script.sh test" (Windows gitbash)*
 
 ##### Python script
 1. Open a python interpreter and run **pandas_script.py**. The python file **"functions.py"** needs to be in the same folder as pandas_script.
