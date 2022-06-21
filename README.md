@@ -41,7 +41,7 @@ The third task (HTTP python server: **"server.py"**) needs to be run on Linux.
 
 #### Step by Step
 ##### Bash script 
-1. Open a terminal where you have saved the **"script.sh"** file and write **"./script.sh path_of_the_directory"** (Git bash on Windows) or **"bash script.sh path_of_the_directory (Linux)"**
+1. Open a terminal where you have saved the **"script.sh"** file and write **"./script.sh path_of_the_directory"** (Git bash on Windows) or **"bash script.sh path_of_the_directory (Linux)"**. Example: **./script.sh C:/Users/Name/Documents/test** supposing we want to know the file names and sizes in that folder in Documents.
 2. An output file with the results called "directory_stats.txt" will be exported in the current folder where the terminal was initiated 
 
 ***"test.zip"** is a directory that has dummy files and subfolders of different sizes. Hence for this task, it could be extracted in a folder call "test" and run on a terminal  "./script.sh test" (Windows gitbash)*
