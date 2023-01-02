@@ -1,6 +1,5 @@
 # Coding Challenge
 
-Technical Asessment - DareData Engineering Interview
 
 ## Description
 
